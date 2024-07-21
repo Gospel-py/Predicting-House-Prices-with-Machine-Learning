@@ -43,7 +43,7 @@ The dataset used in this project was gotten from Kaggle. You can download the da
 
 ## Data Preprocessing
 
-The data downloaded from Kaggle was already in a clean state. There were outliers, missing values, 
+The data downloaded from Kaggle was already in a clean state. There were no outliers, missing values, structural errors, or irrelevant data.
 
 ## Exploratory Data Analysis
 
@@ -107,7 +107,7 @@ The various visualizations, including bar plots, count plots, histograms, and Ke
 
 1. **Accessing the Notebook**:
    - Click [here](https://colab.research.google.com/drive/1FC27kAr9PnNgBwkypdU2B6EnaWq24j1H?usp=sharing) to open the project notebook in Google Colab.
-   - Upload the dataset `ParisHousing` (download the dataset [here](https://www.kaggle.com/datasets/mssmartypants/paris-housing-price-prediction))
+   - Upload the dataset `ParisHousing` 
 
 2. **Running the Notebook**:
    - Once the notebook is open, you can run each cell sequentially by pressing `Shift + Enter`.
