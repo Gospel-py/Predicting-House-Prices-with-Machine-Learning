@@ -107,7 +107,7 @@ The various visualizations, including bar plots, count plots, histograms, and Ke
 
 1. **Accessing the Notebook**:
    - Click [here](https://colab.research.google.com/drive/1FC27kAr9PnNgBwkypdU2B6EnaWq24j1H?usp=sharing) to open the project notebook in Google Colab.
-   - Upload the dataset `ParisHousing` 
+   - Upload the `ParisHousing` dataset
 
 2. **Running the Notebook**:
    - Once the notebook is open, you can run each cell sequentially by pressing `Shift + Enter`.
